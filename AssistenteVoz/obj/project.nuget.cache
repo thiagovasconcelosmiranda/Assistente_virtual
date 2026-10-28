@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "X84OwC/vfC8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\THIAGO\\AssistenteVoz\\AssistenteVoz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\THIAGO\\.nuget\\packages\\naudio\\3.3.0\\naudio.3.3.0.nupkg.sha512",
+    "C:\\Users\\THIAGO\\.nuget\\packages\\naudio.core\\3.3.0\\naudio.core.3.3.0.nupkg.sha512",
+    "C:\\Users\\THIAGO\\.nuget\\packages\\naudio.midi\\3.3.0\\naudio.midi.3.3.0.nupkg.sha512",
+    "C:\\Users\\THIAGO\\.nuget\\packages\\naudio.wasapi\\3.3.0\\naudio.wasapi.3.3.0.nupkg.sha512",
+    "C:\\Users\\THIAGO\\.nuget\\packages\\naudio.winmm\\3.3.0\\naudio.winmm.3.3.0.nupkg.sha512",
+    "C:\\Users\\THIAGO\\.nuget\\packages\\system.numerics.tensors\\9.0.0\\system.numerics.tensors.9.0.0.nupkg.sha512",
+    "C:\\Users\\THIAGO\\.nuget\\packages\\system.speech\\10.0.13\\system.speech.10.0.13.nupkg.sha512",
+    "C:\\Users\\THIAGO\\.nuget\\packages\\vosk\\0.3.38\\vosk.0.3.38.nupkg.sha512"
+  ],
+  "logs": []
+}
